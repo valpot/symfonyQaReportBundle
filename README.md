@@ -6,3 +6,10 @@
 
 
 # symfonyQaReportBundle
+
+/!\ **It is actually a work in progress**
+
+This bundle allows you to automatically write qa reports to your merge/pull request on either github or gitlab.
+
+The supported qa packages are:
+- nunomaduro/phpinsights
